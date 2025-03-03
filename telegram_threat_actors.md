@@ -1,8 +1,6 @@
 |Telegram|Status|Threat Actor Name|Type of attacks|
 | ------ | ------ | ------ | ------ |
-|https://t.me/+6OJjr1dDbQw1NDli|EXPIRED| RED HACKERS ALLIANCE ||
 |https://t.me/+7VXL5Gy9NUc1YzFl|VALID| Darknet chat||
-|https://t.me/+8UWtFO9H_9dhODVk|EXPIRED| 0x_dump alternative channel||
 |https://t.me/+9ETFYLy5Tc1lNzBh|VALID|Ares private channel||
 |https://t.me/+9P5FQ85afTc4NGNl|VALID| Goblin's Database ||
 |https://t.me/aaron_bushneII|ONLINE|Aaron Bushnell hackers||
@@ -14,38 +12,20 @@
 |https://t.me/altenens|ONLINE||
 |https://t.me/anarchy_squad|OFFLINE| [ Cyber.Anarchy.Squad ]||
 |https://t.me/anon_by|ONLINE| Anonymous Russia channel||
-|https://t.me/anoncambodia|OFFLINE| ||
-|https://t.me/AnonCollective|OFFLINE|Anonymous Collective||
-|https://t.me/AnonimLegion|OFFLINE|KaliHunt/Russia||
-|https://t.me/ANONM0S_RU|OFFLINE|Anonymous Russia||
 |https://t.me/anon_sec_Official|ONLINE|Anon Sec|Data Leak|
-|https://t.me/AnonymousEgypt|OFFLINE|Anonymous Egypt|Data Leak|
 |https://t.me/Anonymous_revengers|ONLINE|UnderWorld Hacking Group||
 |https://t.me/anonymous_south_africa|ONLINE|Anonymous South Africa|Data Leak|
-|https://t.me/AnonymousSudan|OFFLINE|Anonymous Sudan||
 |https://t.me/AntiPlumbers|ONLINE||
 |https://t.me/anzu_team|ONLINE|Anzu Team||
 |https://t.me/APIddosMirai|ONLINE| Killnet API DDoS Mirai |DDoS|
-|https://t.me/APTANALYSIS|OFFLINE|Exploits||
 |https://t.me/APTIRAN|ONLINE|APT Iran||
-|https://t.me/Arab_Hackers_Union|OFFLINE|Arab Hackers Union||
-|https://t.me/aresmainchannel|OFFLINE| Data Leaks ||
-|https://t.me/arvinclub1|OFFLINE|Arvin||
-|https://t.me/Arvin_club2|OFFLINE| Data Leaks ||
-|https://t.me/arvin_club|OFFLINE||
-|https://t.me/asdcloud|OFFLINE|Combo List||
 |https://t.me/atlantiscyberarmy|ONLINE|Atlantis - CyberArmy - A.I.G||
 |https://t.me/atw2022|ONLINE| Against The West ||
 |https://t.me/AutoLookup|ONLINE|AutoLookup||
-|https://t.me/awsleaks|OFFLINE|AWS Leaks||
-|https://t.me/azzasec|OFFLINE|AzzaSec||
 |https://t.me/baphchat|ONLINE|The Jacuzzi||
 |https://t.me/base_brutesu|ONLINE| Combo List|
 |https://t.me/baseleak|ONLINE| Data Leaks ||
 |https://t.me/+Bat9QqJcSuE0MTg1|VALID| AresLoader ||
-|https://t.me/bazubd|OFFLINE| Data Leaks||
-|https://t.me/BAZU_BD|OFFLINE| Data Leaks||
-|https://t.me/BEARITARMY|OFFLINE| BEAR IT ARMY ||
 |https://t.me/BEARITARMY|ONLINE|BearITArmy||
 |https://t.me/BEARSPAW_RESERVS|ONLINE|BearSpaw (now they are Digital Revolt)||
 |https://t.me/best_cracking_soft|ONLINE|Illicit Service||
@@ -53,14 +33,8 @@
 |https://t.me/bl00dy_Ransomware_Gang|ONLINE| Bl00dy ransomware gang ||
 |https://t.me/Bl4ck_Room|ONLINE| Checkers, Hacking Tools ||
 |https://t.me/blackforumsarchive|ONLINE|BlacksForums archive||
-|https://t.me/blackforumsbf|OFFLINE|Blackforum||
-|https://t.me/blackshadowhackers|OFFLINE| Blackshadow Hackers ||
 |https://t.me/blackvaultcc|ONLINE|Blackvault||
-|https://t.me/Blank_Link|OFFLINE||
 |https://t.me/BLOODNET_RUS|ONLINE|Bloodnet|
-|https://t.me/blueteamzone|OFFLINE||
-|https://t.me/boosty66brvte|OFFLINE| Data Leaks ||
-|https://t.me/breachchat|OFFLINE|Jacuzzi 5.0||
 |https://t.me/breachdetector|ONLINE||
 |https://t.me/breachdetector|ONLINE| Data Leak Monitor||
 |https://t.me/breachedannouncements|OFFLINE|Breach Forum Announcements||
@@ -299,165 +273,85 @@
 |https://t.me/Leaked_DataBase_Breached|OFFLINE| Data Leaks||
 |https://t.me/leaked_databases|ONLINE| Data Leaks||
 |https://t.me/leaked_detabase|ONLINE| Data Leaks ||
-|https://t.me/LeakedSource|OFFLINE| Data Leaks||
-|https://t.me/leakes4|OFFLINE| Data Leaks, Combo List||
-|https://t.me/leakinformation|OFFLINE|Data Leaks||
-|https://t.me/leaklicks|OFFLINE| Data Leaks||
-|https://t.me/leaksdatabase|OFFLINE| Data Leaks||
 |https://t.me/LeaksData|ONLINE| Data Leaks||
-|https://t.me/leaksdirectory|OFFLINE|Leaks Directory||
 |https://t.me/leaksmarts|ONLINE| Leaks Marts||
-|https://t.me/leaksploit|OFFLINE| Data Leaks ||
 |https://t.me/LeaRNEXploIT|ONLINE| ||
 |https://t.me/LearnExploit|ONLINE| General hacking, Tutorials ||
 |https://t.me/lefousamples|ONLINE| Data Leaks|
-|https://t.me/LEGIONLEAKER|OFFLINE|Legion Leaker||
-|https://t.me/Legion_Russia|OFFLINE| Legion Russia ||
 |https://t.me/LegionServiceNewsGroup|ONLINE|Legion Service News Group|Data Leak|
-|https://t.me/LionheartHACK|OFFLINE|Lionheart||
 |https://t.me/LockBit_APT|ONLINE| LockBit APT ||
-|https://t.me/lockbit_offical|OFFLINE|LockBit 3.0|Ransomware gang|
-|https://t.me/LockBitSuppRaaS|OFFLINE|LockBitSupp|Ransomware gang|
 |https://t.me/lulzsecmuslimsworld|ONLINE|Lulzsec Muslims||
-|https://t.me/LulzSecOff|OFFLINE|LulzSec||
-|https://t.me/LummaC2Stealer|OFFLINE|LummaC2 Stealer|Infostealer|
-|https://t.me/LummaC2Team|OFFLINE|LummaC2 Stealer Chat|Infostealer|
-|https://t.me/LummaReborn|OFFLINE|LummaC2 Stealer Channel|Infostealer|
-|https://t.me/LummaTeam_Reborn|OFFLINE|LummaC2 Stealer Chat|Infostealer|
 |https://t.me/+lYYyb3exPNFjNmRi|EXPIRED|Cyber Dragon||
 |https://t.me/+LZQBX9ml0Qk3YWFl|EXPIRED|BF Repo V3 Chat||
-|https://t.me/MAilAccessCracker|OFFLINE|Free Data Breaches Provider||
-|https://t.me/mailaccesscrack|OFFLINE|Combo Lists||
-|https://t.me/MaillAccessTop|OFFLINE| Data Leaks ||
-|https://t.me/mailpasschanel|OFFLINE|Combo List||
-|https://t.me/mailpassclub|OFFLINE| ||
-|https://t.me/mailpasword|OFFLINE| ||
-|https://t.me/malek_team1|OFFLINE|MalekTeam||
-|https://t.me/MalwareForums|OFFLINE|Malware Forums||
 |https://t.me/marketo_leaks|ONLINE| Data Leaks||
 |https://t.me/Matryoshka424|ONLINE|Matryoshka424|DDoS|
-|https://t.me/MBCRANSOMWARE|OFFLINE| Ransomware Gang||
-|https://t.me/meganzshare|OFFLINE| ||
 |https://t.me/membersofxaknet|ONLINE| ||
 |https://t.me/meris_botnet|ONLINE|Meris botnet|DDoS|
 |https://t.me/metastealer_official|ONLINE| Metastealer Officiale |Infostealer|
-|https://t.me/MexicanMafiaTheShit|OFFLINE|MexicanMafia Announcement|Data Leak|
 |https://t.me/MiladLeaks|ONLINE|Milad Leaks||
 |https://t.me/milkdude|ONLINE| Data Leaks||
-|https://t.me/minsaudebr|OFFLINE| Lapsus$ channel ||
-|https://t.me/MysteriousTeam0|OFFLINE|Mysterious team bangladesh||
 |https://t.me/naosbase|ONLINE|DB / Data Leak Search Engine||
 |https://t.me/+nCFeH8PT-XUxZjEy|EXPIRED| Data Leaks||
-|https://t.me/ndtgroup_kh|OFFLINE| ||
 |https://t.me/NetHunt3r|ONLINE|NetHunt3r Group (pro Palestine)|Data Leak|
 |https://t.me/NetHunt3r|ONLINE|NET Hunter||
 |https://t.me/NetSurvivalist|ONLINE| General Hacking, Privacy ||
-|https://t.me/net_worker_alliance|OFFLINE|Net Worker Alliance||
-|https://t.me/NewBlood_Project|OFFLINE|New Blood Project||
-|https://t.me/nightmare_hacker|OFFLINE|NIGHTMARE||
-|https://t.me/NinjaByte|OFFLINE|Ninja Byte Combos (Combo Lists)|
 |https://t.me/nn05716chat|ONLINE| NoName057(16) Eng||
-|https://t.me/nohidespace|OFFLINE| Combo List ||
 |https://t.me/noname05716engchat|ONLINE| NoName057(16) chat|DDoS|
-|https://t.me/noname05716eng|OFFLINE| NoName057(16) Eng|DDoS|
 |https://t.me/noname05716engversion|ONLINE|NoName057(16) Eng|DDos|
-|https://t.me/noname05716|OFFLINE|NoName057(16) Rus|DDoS|
-|https://t.me/noname05716reborn|OFFLINE|NoName057(16) Rus|DDoS|
 |https://t.me/noname05716_reborn2|ONLINE|NoName057(16) Rus|DDoS|
-|https://t.me/NNM05716Versioneitaliana|OFFLINE|NoName057(16) Ita|DDoS|
 |https://t.me/noname05716versione_italiana|ONLINE|NoName057(16) Ita|DDoS|
-|https://t.me/noname05716_version_espanola|OFFLINE|NoName057(16) Esp|DDoS|
 |https://t.me/nnm05716esp|ONLINE|NoName057(16) Esp|DDoS|
-|https://t.me/NullLeak|OFFLINE| Data Leaks ||
-|https://t.me/O1chat|OFFLINE| Market ||
 |https://t.me/+O7yT5lylY89lMTcy|VALID|TCG||
-|https://t.me/ObserverCloud|OFFLINE| Observer Cloud Redline Stealer (Harvests other channels) |Infostealer|
-|https://t.me/OBSERVERCLOUDCOMBO|OFFLINE|Combo List||
 |https://t.me/OfficialBaphomet|ONLINE|BaphometOfficial||
 |https://t.me/OnePlusChat|ONLINE| ||
-|https://t.me/opendataleaks|OFFLINE| Data Leaks ||
-|https://t.me/openleak|OFFLINE| Data Leaks ||
 |https://t.me/OPRATIONSALIGATOR|ONLINE|Aligator Black Hat||
 |https://t.me/Osintcorp_chat|ONLINE|OsintCorp||
 |https://t.me/Osintcorp_chat|ONLINE|OsintCorp Group Chat||
 |https://t.me/+paglZbHnhE8xMTA8|EXPIRED| Adrastea Group||
-|https://t.me/Patriot_Black_Matrix|OFFLINE|Patriot Black Matrix||
-|https://t.me/Patriot_Black_x|OFFLINE|Patriot Black Matrix||
 |https://t.me/peass|ONLINE| ||
 |https://t.me/phantom_tg|ONLINE| PHANTOM DEV ||
-|https://t.me/phoenixinform|OFFLINE|Phoenix group||
 |https://t.me/phoenix_inform|ONLINE|PHOENIX||
 |https://t.me/Phorcy|ONLINE|Phorcy Stealer|Infostealer|
 |https://t.me/poenamarket|ONLINE|Poena Market||
-|https://t.me/privatecombos|OFFLINE| Data Leaks ||
-|https://t.me/procoder_base|OFFLINE| Data Leaks ||
 |https://t.me/proxy_bar|ONLINE| Exploits, Hacking and Leaks ||
 |https://t.me/ProxyMTProto|ONLINE| ||
-|https://t.me/pryntsktmarket|OFFLINE| Prynt Stealer Official|Infostealer|
 |https://t.me/pwnwiki_zhchannel|ONLINE| ||
-|https://t.me/QuartzSec|OFFLINE|QuartzSec||
 |https://t.me/qZann|ONLINE| Data Leaks ||
-|https://t.me/R00TK1TDB|OFFLINE| R00tk1t DB ||
-|https://t.me/R00TK1TOFF |OFFLINE| R00tk1t Cyber Team ||
 |https://t.me/+R1GELDqXo1dhMmYx|EXPIRED|Ziburate|Data Leak|
-|https://t.me/raidsecretforums|OFFLINE| Claims to be the backup channel of RaidForums ||
-|https://t.me/ransomblackbit30|OFFLINE|Lockbit 3.0 Main.js||
-|https://t.me/ransom_house|OFFLINE| RansomHouse official channel ||
 |https://t.me/RansomTeam|ONLINE|RansomTeam  Chat||
 |https://t.me/RansomwareTeam|ONLINE| Ransomware Team||
 |https://t.me/ransomwatcher|ONLINE| Data Leaks ||
 |https://t.me/rdpstealer|ONLINE|Rdp Stealer|Infostealer|
-|https://t.me/redstresserorg|OFFLINE|Meris botnet main channel|DDoS|
-|https://t.me/reveng3rs|OFFLINE| Data Leaks ||
-|https://t.me/revolusigbanon17|OFFLINE|GB Anon 17||
 |https://t.me/RHA_Red_Hackers_Alliance_Russia|ONLINE| Data Leaks||
 |https://t.me/russiagoodbuy_rgb_team|ONLINE|RGB Team (https://rgb-team.com)|Data Leak|
 |https://t.me/+RxMyTFg9NYllZmU5|EXPIRED|Waus Leaks||
 |https://t.me/sanaski|ONLINE| Configs, combos ||
-|https://t.me/Sell_rdp1|OFFLINE| ||
 |https://t.me/ServerKillers|ONLINE|Server Killers||
-|https://t.me/shadowleakss|OFFLINE|ShadowHacker Leaks||
 |https://t.me/shadowleakss|ONLINE|Shadow Leaks||
 |https://t.me/shadowseekers5|ONLINE|Shadow Seekers|Data Leak|
 |https://t.me/shieldteam1|ONLINE| ||
 |https://t.me/ShizoPrivacy|ONLINE| 0% Privacy||
-|https://t.me/SiegedSecc|OFFLINE|SiegedSec||
-|https://t.me/SiegedSec|OFFLINE| Sieged Sec||
-|https://t.me/SiegedSecurity|OFFLINE|SiegedSec||
 |https://t.me/silentplug666|ONLINE| Market ||
-|https://t.me/sixtysixdata|OFFLINE|66SLAVS Datagroup|Data Leak|
-|https://t.me/SkidbinSITE|OFFLINE|Skidbin|Doxing|
 |https://t.me/slivaidlocker|ONLINE| AiDLocker Group Data Leaks Channel||
 |https://t.me/slivnoviy123|ONLINE| Erernity Team Redline Stealer|Infostealer|
-|https://t.me/SNAKEDBS|OFFLINE|Nuttela Combo's (Repackaged Combo Lists)||
 |https://t.me/snatch_info|ONLINE|Snatch ransomware gang|Ransomware, Exfiltration|
 |https://t.me/snatch_news|ONLINE| Snatch Team (Ransomware Gang) ||
-|https://t.me/Sn_blackmeta|OFFLINE|SN_ Blackmeta|DDoS|
-|https://t.me/SN_Darkmeta|OFFLINE|SN_ Blackmeta|DDoS|
 |https://t.me/solntsepekZ|ONLINE|Sandworm||
-|https://t.me/SolomonUpdates|OFFLINE|Solomon market place updates||
 |https://t.me/spamsmtpcombo|ONLINE| Combo List ||
-|https://t.me/SparrowCorp|OFFLINE|SparrowCorp||
 |https://t.me/+SrY0b7MukCVmNDk1|EXPIRED|22C||
 |https://t.me/StealerStore|ONLINE| Stealer Store|Infostealer|
 |https://t.me/stkdatabase|ONLINE| Mapper (former STK Database)||
-|https://t.me/StormFreeConfig|OFFLINE| Configs, Combos ||
 |https://t.me/SylhetGangSgOfficial|ONLINE|Sylhet Gang-SG||
 |https://t.me/sysadminbd|ONLINE|Sysadmin||
 |https://t.me/+T0l1VDuQzDpjYWQ0|EXPIRED| Data Leaks||
 |https://t.me/tbotlist|ONLINE| Bots ||
 |https://t.me/t_darknet|ONLINE|Illicit Service||
 |https://t.me/TE1915|ONLINE|1915 team||
-|https://t.me/team1916|OFFLINE|TEAM1916||
 |https://t.me/TeamDemon|ONLINE|Illicit Service||
 |https://t.me/teamimm0rtal|ONLINE| Team Imm0rtal channel ||
 |https://t.me/TeamIndianCyberForce|ONLINE|Indian Cyber Force||
-|https://t.me/teaminsanepk|OFFLINE|Team insane pk||
 |https://t.me/Team_r70YEMEN|ONLINE|DDoS Hactivitsts|DDoS|
 |https://t.me/techpwnews|ONLINE| News ||
-|https://t.me/tengkorakcybercrewz|OFFLINE|TengkorakCyberCrew Official||
-|https://t.me/tgcnnatgvctfenqwf|OFFLINE|Combo List||
-|https://t.me/the_archivists_domain|OFFLINE| Source Code Dumps ||
 |https://t.me/ThreatSec|ONLINE|ThreatSec||
 |https://t.me/TigerElectronicUnit|ONLINE|Electronic Tigers Unit ||
 |https://t.me/torlinks|OFFLINE| ||
@@ -470,10 +364,6 @@
 |https://t.me/user1_pycc|OFFLINE|user1|DDoS and Data Leak|
 |https://t.me/usersec_chat|ONLINE|UserSec Chat||
 |https://t.me/usersec_collective|OFFLINE|UserSec Collective||
-|https://t.me/user_secc|OFFLINE|UserSec||
-|https://t.me/user_sec|OFFLINE|UserSec||
-|https://t.me/user_sec|OFFLINE|UserSec Killnet Affiliated||
-|https://t.me/usersec_reservs|OFFLINE|UserSec Reserve||
 |https://t.me/+uV_Lxf2uOHhkMjAy|VALID| Killnet Store Chat ||
 |https://t.me/+Uxo9r92Ho5ZkYjdi|EXPIRED| KILLNET ||
 |https://t.me/+UYKtaIt6KFGlFwBJ|EXPIRED| VIP Config - configs, combos, etc ||
