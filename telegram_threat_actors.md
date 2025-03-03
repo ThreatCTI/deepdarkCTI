@@ -4,13 +4,10 @@
 |https://t.me/+9ETFYLy5Tc1lNzBh|VALID|Ares private channel||
 |https://t.me/+9P5FQ85afTc4NGNl|VALID| Goblin's Database ||
 |https://t.me/aaron_bushneII|ONLINE|Aaron Bushnell hackers||
-|https://t.me/AC3HCYBER|OFFLINE|ACEH||
 |https://t.me/AccountSquadChat|ONLINE|Illicit Service Group||
-|https://t.me/ACCOUNTSQUAD|OFFLINE|Illicit Service Channel||
 |https://t.me/aidlock/|ONLINE| AiDLocker group channel||
 |https://t.me/Allhak_mv|ONLINE| Data Leaks|
 |https://t.me/altenens|ONLINE||
-|https://t.me/anarchy_squad|OFFLINE| [ Cyber.Anarchy.Squad ]||
 |https://t.me/anon_by|ONLINE| Anonymous Russia channel||
 |https://t.me/anon_sec_Official|ONLINE|Anon Sec|Data Leak|
 |https://t.me/Anonymous_revengers|ONLINE|UnderWorld Hacking Group||
@@ -37,63 +34,33 @@
 |https://t.me/BLOODNET_RUS|ONLINE|Bloodnet|
 |https://t.me/breachdetector|ONLINE||
 |https://t.me/breachdetector|ONLINE| Data Leak Monitor||
-|https://t.me/breachedannouncements|OFFLINE|Breach Forum Announcements||
-|https://t.me/BreachedData|OFFLINE| Data Leaks ||
-|https://t.me/BreachedDB|OFFLINE| Data Leaks ||
-|https://t.me/BreachedDiscussion|OFFLINE| Data Leaks ||
-|https://t.me/bugatti_cloud|OFFLINE| Bugatti Cloud Redline Stealer|Infostealer|
-|https://t.me/Bust3d|ONLINE| волчья свалка||
-|https://t.me/c0xCee|OFFLINE| Data Leaks ||
 |https://t.me/c/1228309110/7662|PRIVATE| Ddosia project chat|DDoS|
 |https://t.me/canyoupwnme|ONLINE| News ||
 |https://t.me/cas_files|ONLINE| Data Leaks ||
-|https://t.me/cbanke_market|OFFLINE| Data Leaks ||
 |https://t.me/cbanke|ONLINE| Data Leaks||
 |https://t.me/CHO1CHO1|ONLINE|CH01 group||
-|https://t.me/cityofleaker|OFFLINE| Leaks ||
 |https://t.me/civiliandarkcode404|ONLINE|Civilan dark code||
-|https://t.me/clean_tools_net|OFFLINE|Clean Tools||
-|https://t.me/cloudata_free_databases|OFFLINE|Free Data Breaches Provider||
-|https://t.me/club1337|OFFLINE||
-|https://t.me/combo2021|OFFLINE| Combo List||
 |https://t.me/Combolistfresh|ONLINE| Combo List||
-|https://t.me/combo_listt|OFFLINE| Combo List ||
 |https://t.me/combo_offensive|ONLINE| Combo List ||
 |https://t.me/combosgrupoplex|ONLINE| Combo List ||
 |https://t.me/Comments_RHA_Russia_chat|ONLINE| Red Hackers Alliance Chat Group ||
-|https://t.me/config_combos|OFFLINE| Configs, Combos ||
-|https://t.me/Configsandcombos|OFFLINE| Configs, Combos ||
 |https://t.me/ConfigsServices|ONLINE| Configs, Combos ||
 |https://t.me/CoupTeam|ONLINE|Coup Team||
 |https://t.me/cpartisans|ONLINE| Кибер-Партизаны (Cyber Partisans) ||
 |https://t.me/crackcodes|ONLINE| Data Leaks ||
-|https://t.me/CrackerConfigs|OFFLINE| Configs, Combos ||
-|https://t.me/Crackers_Club|OFFLINE| Configs, Combos ||
-|https://t.me/Craxpro_Channel|OFFLINE|Cracking, spamming, carding||
 |https://t.me/crewcomboteam|ONLINE| Combo List||
-|https://t.me/crewcomboteams|OFFLINE| Crew Combo Teams||
 |https://t.me/cristallineforum|ONLINE|Cristalline Forum||
-|https://t.me/CryptoGinzo|OFFLINE| Crypt_0x00 ||
 |https://t.me/ctifeeds|ONLINE|Cyber Threat Intelligence Feeds||
 |https://t.me/cveNotify|ONLINE| CVE Feed||
 |https://t.me/cyb3rtr0nian|ONLINE||
 |https://t.me/cybdetective|ONLINE| News & Info Sharing ||
 |https://t.me/cyberactiveXXII|ONLINE| CA XXII Hacktivist Gang ||
 |https://t.me/cyber_anarchy_squad|ONLINE| [ Cyber.Anarchy.Squad ]||
-|https://t.me/CyberArmyofRussia_Reborn|OFFLINE|Sandworm||
 |https://t.me/CyberAv3ngers|ONLINE|Cyber Av3ngers||
-|https://t.me/CyberAveng3rs|OFFLINE|Cyber Aveng3rs||
-|https://t.me/CyberCatChat|OFFLINE|Cyber Cat chat||
 |https://t.me/CyberCatHack|ONLINE|Cyber Cat channel||
 |https://t.me/cybercourt_io|ONLINE|Cyber Court||
 |https://t.me/cybercourt_io|ONLINE|CyberCourt Group (pro Palestine) - https://cybercourt.io|Data Leak|
-|https://t.me/CyberDragonRussia|OFFLINE|Cyber Dragon Russia||
-|https://t.me/CyberToufanBackup|OFFLINE|CyberToufan|Data Leaks||
-|https://t.me/D3atr0y3d|OFFLINE| Data Leaks||
 |https://t.me/D3v1LZoNe|ONLINE| Devilzone 1 - configs, combos ||
-|https://t.me/D7BBUK|OFFLINE|D7BBUK||
-|https://t.me/DailyCombos1|OFFLINE| Combo List||
-|https://t.me/DailyCombos|OFFLINE| Combo List||
 |https://t.me/dailydarkweb|ONLINE| Data Leaks ||
 |https://t.me/DarkBitChannel|ONLINE|Darkbit Channel||
 |https://t.me/darkclubpw|OFFLINE| Dark Club Market ||
@@ -403,27 +370,12 @@
 |https://t.me/ZeroDay_TM|ONLINE| Original  ZeroDay  Community ||
 |https://t.me/zolfcombo|OFFLINE|ZOLF Combos||
 |https://t.me/ZulikGroupChat|ONLINE|ZulikGroup Chat||
-|https://t.me/ZulikGroupTG|OFFLINE|ZulikGroup||
-|https://t.me/D1rkSec|ONLINE|D1rkSec|Leaks & Breaches|
-|https://t.me/logs_databases|OFFLINE|R.E.D. H.A.S.H.|Leaks & Breaches|
-|https://t.me/DAEKLIKS|OFFLINE|Dark_leaks|Leaks & Breaches|
-|https://t.me/combodatabasee|OFFLINE|COMBO DATABASE|combos|
-|https://t.me/mailpass|OFFLINE|MAIL:PASS HQ Combos & Bases|combos|
-|https://t.me/combosgrupoplex|OFFLINE|Combos grupo plex|combos|
 |https://t.me/emailistsdatabase|ONLINE|Database Email Lists and Numbers Lists|combos|
 |https://t.me/www_paypal|ONLINE|Pro Team Channe|combos|
 |https://t.me/freshcombomails|OFFLINE|Fresh Combo mails|combos|
 |https://t.me/GGBestCombo|OFFLINE|GGBestCombo|combos|
 |https://t.me/+f6HgnXuFRiIxMzhk|VALID|Pro Team Channel|combos|
-|https://t.me/Crackingcombolist|OFFLINE|Cracking Combo|combos|
-|https://t.me/R3dd1sh_34_E4gl3_D4t4l34ks|OFFLINE|Ŕ€đďįşħ €ąğℓę ďάťάŁэάķş|combos|
-|https://t.me/freecombosmails|OFFLINE|FREE COMBOS MAILS|combos|
-|https://t.me/URLPASSCLOUD|OFFLINE|URL:USER:PASS CLOUD|combos|
-|https://t.me/voltspammer|OFFLINE|VOLT CRACKS|combos|
-|https://t.me/TEST123ND|OFFLINE|TEST|combos|
 |https://t.me/logsgang2|ONLINE|Logs|combos|
-|https://t.me/MailPassPrivates|OFFLINE|Mail Pass Privates|combos|
-|https://t.me/mailaccessmegacloud|OFFLINE|MailAccess Mega Cloud|combos|
 |https://t.me/DMMMMMM|ONLINE|BigDmtrydata|combos|
 |https://t.me/FreeLogPassForAll|OFFLINE|FreeLog:PassForAll|combos|
 |https://t.me/private_ratlogs|ONLINE|Free CLouds|combos|
@@ -435,10 +387,6 @@
 |https://t.me/COMBO_SOURCE|OFFLINE|COMBO PRIVATE|combos|
 |https://t.me/emp_name|OFFLINE|EMP Group (EMailPass)|combos|
 |https://t.me/azzasec|ONLINE|AzzaSec||
-|https://t.me/lulzchat|OFFLINE|LulzSec chat||
-|https://t.me/realLulzSec|OFFLINE|VSec||
-|https://t.me/CyberVolk_K|OFFLINE|CyberVolk|dataleak|
-|https://t.me/evilzoneforum|OFFLINE|Evil Zone|Forum|
 |https://t.me/justice_homeland_original|ONLINE|HomeLand Justice||
 |https://t.me/JusticeHomeland1|ONLINE|HomeLand Justice||
 |https://t.me/Team1722|ONLINE|Team1722||
@@ -449,31 +397,18 @@
 |https://t.me/Leak_DBMS|ONLINE|Leak DBMS|Leaks & Breaches|
 |https://t.me/LulzSec_Off|OFFLINE|PhantomGroup|Threat Actor|
 |https://t.me/hackercouncil|ONLINE|Hacker Council Global|DDoS|
-|https://t.me/dedsecc_official|OFFLINE|DedSec|DDoS|
-|https://t.me/hackerforse|OFFLINE|7 October Union|DDoS|
-|https://t.me/whoisAlixan|OFFLINE|AlixSec|Leaks & Breaches|
-|https://t.me/StressedForums|OFFLINE|Stressed Forum|Forum|
 |https://t.me/ddosiamonitor|ONLINE|DDoSia Target Monitor|DDoS|
 |https://t.me/+rlyGuPTMGuU5YjE6|VALID|DDoSia Project|DDoS|
 |https://t.me/h0lyleague|OFFLINE|Holy League|DDoS|
 |https://t.me/Holy_League|ONLINE|Holy League|DDoS|
 |https://t.me/+kcr0MVem9OA3MTk6|EXPIRED|Handala Hack|Leaks & Breaches|
-|https://t.me/Handala_backup|OFFLINE|Handala Backup|Leaks & Breaches|
-|https://t.me/azzasecurity|OFFLINE|Azzasec|DDoS|
-|https://t.me/KozSec|OFFLINE|KozSec|DDoS
-|https://t.me/KozSec1|OFFLINE|KozSec backup|DDoS|
-|https://t.me/KozSecChat|OFFLINE|KozSec chat|DDoS|
 |https://t.me/TG_SECurityTr8Ker|ONLINE|SECurityTr8Ker|SEC's RSS feed monitor|
 |https://t.me/RipperSec|OFFLINE|RipperSec|DDoS|
 |https://t.me/goripoolcodes|ONLINE|Goripool Codes|Phishing pages,panels|
 |https://t.me/Anonymous_Guys_313|OFFLINE|Anonymous Guys|DDoS|
 |https://t.me/+DZRa-yXaHZ81MmNk|EXPIRED|Handala Hack|Leaks & Breaches|
 |https://t.me/CyberToufan|ONLINE|CyberToufan|Data Leaks|
-|https://t.me/AlAhadSecurity|OFFLINE|Al Ahad|DDoS|
-|https://t.me/ridgedforums|OFFLINE|BlackForums|Forum|
 |https://t.me/thebrotherhoodcorp|ONLINE|The Brotherhood|Ransomware Gang|
-|https://t.me/bloodforgex|OFFLINE|BloodForge|RaaS|
-|https://t.me/RedEagleCrew|OFFLINE|Red Eagle Crew|DDoS & Data Breach|
 |https://t.me/NetGhostSecurity|ONLINE|DDoS & Data Breach|
 |https://t.me/Liquid_Blood|ONLINE|Liquid Blood|DDoS|
 |https://t.me/AisData|OFFLINE|AisData|Data Breach|
@@ -486,20 +421,13 @@
 |https://t.me/DragonRansom|ONLINE|Dragone RaaS|Ransomware Gang|
 |https://t.me/OPRATIONSALIGATOR|ONLINE|Aligator Black Hat|Data Leaks|
 |https://t.me/INDOHAXSEC|ONLINE|INDOHAXSEC|DDoS, Defacement & Data Breach|
-|https://t.me/FreshAccess|OFFLINE|Venom Access Token|Initial Access|
 |https://t.me/DangerZoneForum|ONLINE|Danger Zone Forum|Forum|
-|https://t.me/fredensofsecurity1|OFFLINE|Fredens of Security|DDoS, Defacement & Data Breach|
 |https://t.me/filehaus|ONLINE|Filehaus||
 |https://t.me/esteemrestorationeagle|ONLINE|Esteem Restoration Eagle|Defacement & DDoS|
-|https://t.me/nnm057_16|OFFLINE|NoName057(16)|DDoS|
 |https://t.me/bratvacorp|ONLINE|Bratva||
 |https://t.me/+NcyNWGFil7plYzNi|VALID|x0x0ba$e|Data Leaks|
 |https://t.me/+lPVDPudjxSE0M2Q1|VALID|Data Globe|Data Breach|
-|https://t.me/hack_0xTam|OFFLINE|0X_Team|DDoS, Defacement & Data Breach|
-|https://t.me/AzzaSec_Off|OFFLINE|AzzaSec|DDoS|
 |https://t.me/CyperBattle|ONLINE|Cyber Battle|DDoS|
-|https://t.me/blackopmrhamza|OFFLINE|Mr Hamxa|DDoS|
-|https://t.me/TeamARXU|OFFLINE|Team Arxu|DDoS & Data Breach|
 |https://t.me/+QeVsxdEnla80NzY1|EXPIRED|DXPLOIT|Defacement|
 |https://t.me/blackopmrhamza2|ONLINE|Mr Hamza||
 |https://t.me/alixsecenglish|ONLINE|Alixsec|DDoS|
